@@ -12,18 +12,10 @@
         android:layout_height="wrap_content"
         android:text="Heyy Guysss!!!"
         android:textSize="30sp"
-        android:padding="20dp"
-        android:background="@color/colorAccent"
         android:fontFamily="cursive"
         android:textColor="@color/colorPrimaryDark"
         android:gravity="center"
         android:layout_gravity="center"/>
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src=""
-        />
 
 
 
